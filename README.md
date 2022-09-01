@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- 🌱 I love it here
+
 <!--
 **Semiu-ICA/Semiu-ICA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
